@@ -1,4 +1,4 @@
-# @@T1DSoundsVolume - WIP
+# That1Drifter Sounds Volume - WIP
 
 - Reduce most wind noises by %50
 - Increase footstep impact sounds (landFeetErc) range by 100% - WIP (testing needed to determine optimal range increase)
